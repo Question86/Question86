@@ -9,6 +9,8 @@ Building practical AI workflow systems that reduce context drift and make automa
 If my open source tools help your team, fund maintenance and new features:
 
 - https://github.com/sponsors/Question86
+- Quick support: [$5/month](https://github.com/sponsors/Question86/sponsorships?tier_id=ST_kwDOBsgOBs4ACXHq)
+- One-time boost: [$10 once](https://github.com/sponsors/Question86/sponsorships?tier_id=ST_kwDOBsgOBs4ACXHt)
 
 What sponsors make possible:
 
